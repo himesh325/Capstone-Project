@@ -84,13 +84,3 @@ Conclusion section where you conclude the report.*
 <p align="center">
 <img width="1086" alt="Screen Shot 2020-11-03 at 6 54 08 PM" src="https://user-images.githubusercontent.com/53641091/98063930-fcce9980-1e05-11eb-9f92-0d22dcf9b171.png">
 </p>
-___
-
-#### LINK TO COURSE: 
-https://www.coursera.org/professional-certificates/ibm-data-science
-
-#### LINK TO BLOG POST: 
-https://lopez-christian.github.io/2020-11-01-IBM-applied-data-science-capstone/
-
-#### LINK TO PROFESSIONAL CERTIFICATE: 
-https://www.coursera.org/account/accomplishments/specialization/certificate/WUM7FEYCNTNX
